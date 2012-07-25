@@ -7,17 +7,24 @@ Binder, Amy J. 1993. “Constructing racial rhetoric: Media depictions of harm i
 Binder, Amy J, Mary Blair-Loy, John Evans, Kwai Ng, and Michael Schudson. 2008. “Introduction: The Diversity of Culture.” The ANNALS of the American Academy of Political and Social Science 619(1):6–14.
 Blair-Loy, Mary. 2005. Competing Devotions: Career and Family among Women Executives. Harvard University Press.
 Bourdieu, Pierre. 1987. Distinction: A Social Critique of the Judgement of Taste. 1984th ed. Harvard University Press.
-Bourdieu, Pierre. 2000. “Making the economic habitus.” Ethnography.
+Bourdieu, Pierre. 1998. Practical reason. Stanford Univ Pr.
+Bourdieu, Pierre. 2000a. “Making the economic habitus.” Ethnography.
+Bourdieu, Pierre. 2000b. Pascalian meditations. Stanford Univ Pr.
 Bourdieu, Pierre, and Jean-Claude Passeron. 1990. Reproduction in Education, Society and Culture (Theory, Culture & Society). 2nd ed. Sage Publications.
 Bourdieu, Pierre, and Loïc Wacquant. 1998. The State Nobility: Elite Schools in the Field of Power. First Edition. Stanford University Press.
+Bourdieu, Pierre, and Richard Nice. 1990. The logic of practice. Stanford, Calif: Stanford University Press.
 Bryson, Bethany. 1996. “Anything But Heavy Metal": Symbolic Exclusion and Musical Dislikes.” American Sociological Review 61(5):884–899.
+Cerulo, Karen A. 2010. “Mining the intersections of cognitive sociology and neuroscience.” Poetics 38(2):115–132.
 Cheyne, Andrew, and Amy J Binder. 2010. “Cosmopolitan preferences: The constitutive role of place in American elite taste for hip-hop music 1991â€“2005.” Poetics 38(3):336–364.
 Childress, C C, and N E Friedkin. 2012. “Cultural Reception and Production: The Social Construction of Meaning in Book Clubs.” American Sociological Review 77(1):45–68.
+Dalton, B. 2004. “Creativity, habit, and the social products of creative action: Revising Joas, incorporating Bourdieu.” Sociological Theory 22(4):603–622.
 Davies, M., and D.B. Kandel. 1981. “Parental and peer influences on adolescents' educational plans: Some further evidence.” AJS 363–387.
+DiMaggio, Paul. 1997. “Culture and cognition.” Annual Review of Sociology 263–287.
 DiMaggio, Paul, and H. Louch. 1998. “Socially embedded consumer transactions: for what kinds of purchases do people most often use networks?.” American Sociological Review 619–637.
 Dowd, T, K. Liddle, K. Lupo, and A. Borden. 2002. “Organizing the musical canon: the repertoires of major US symphony orchestras, 1842 to 1969.” Poetics 30(1):35–61.
 Eliasoph, Nina, and Paul Lichterman. 2003. “Culture in interaction.” American Journal of Sociology 108(4):735–794.
 Emirbayer, M. 2004. “The Alexander School of Cultural Sociology.” Thesis Eleven 79(1):5–15.
+Farrell, Justin. 2011. “Environmental Activism and Moral Schemas: Cultural Components of Differential Participation.” Environment and Behavior.
 Fine, Gary A. 1979. “Small groups and culture creation: The idioculture of little league baseball teams.” American Sociological Review 733–745.
 Fine, Gary Alan. 2012. Tiny Publics. Russell Sage Foundation Publications.
 Fligstein, Neil. 2001. “Social skill and the theory of fields.” Sociological Theory 19(2):105–125.
@@ -33,6 +40,7 @@ Healy, Kieran. 2004. “Altruism as an organizational problem: The case of organ
 Healy, Kieran. n.d. “The Performativity of Networks.”
 Hochschild, AR. 1983. The managed heart: Commercialism of human feeling. University of California Press.
 Horkheimer, M., and T. Adorno. 1979. “The culture industry as mass deception.” The Dialectic of Enlightenment.
+Ignatow, Gabriel. 2010. “Culture and Embodied Cognition: Moral Discourses in Internet Support Groups for Overeaters.” Social Forces 88(2):643–669.
 Joas, Hans. 1996. The Creativity of Action, trans. J. Gaines and P. Keast. Cambridge: Polity.
 Johnston, Josee, and Shyon Baumann. 2007. “Democracy versus Distinction: A Study of Omnivorousness in Gourmet Food Writing.” American Journal of Sociology 113(1):165–204.
 Kaufman, Jason. 2004. “Endogenous Explanation in the Sociology of Culture.” Annual Review of Sociology 30(1):335–357.
@@ -42,8 +50,10 @@ Lamont, Michèle. 2009b. “Looking back at Bourdieu.” 1–19.
 Lamont, Michèle, and V. Molnar. 2002. “The study of boundaries in the social sciences.” Annual Review of Sociology 167–195.
 Lareau, Annette. 2003. Unequal Childhoods. Univ of California Press.
 Liebes, Tamar, and Elihu Katz. 1993. The Export of Meaning. Polity.
+Lizardo, Omar. 2004. “The cognitive origins of Bourdieu's habitus.” Journal for the Theory of Social Behaviour 34(4):375–401.
 Lizardo, Omar. 2006. “How cultural tastes shape personal networks.” American Sociological Review 71(5):778.
 Lizardo, Omar. 2008. “Culture and Stratification.” Pp. 305–315 in Handbook of Cultural Sociology, edited by Laura Grindstaff and Ming-Cheng Lo. London: Routledge.
+Lizardo, Omar. 2011. “Pierre Bourdieu as a Post-cultural Theorist.” Cultural Sociology 5(1):25.
 Lizardo, Omar, and Michael Strand. 2010. “Skills, toolkits, contexts and institutions: Clarifying the relationship between different approaches to cognition in cultural sociology.” Poetics 38(2):205–228.
 Martin, John Levi. 2010. “Life‘s a beach but you’re an ant, and other unwelcome news for the sociology of culture.” Poetics 38(2):229–244.
 Martin, K.A. 1998. “Becoming a gendered body: Practices of preschools.” American Sociological Review 494–511.
@@ -62,6 +72,7 @@ Rossman, Gabriel. 2012. Climbing the Charts: What Radio Airplay Tells Us about t
 Schudson, Michael. 1989. “How culture works: perspectives from media studies on the efficacy of symbols.” Theory and society 18(2):153–180.
 Sewell, William H., Jr. 1992. “A theory of structure: Duality, agency, and transformation.” American Journal of Sociology 98(1):1–29.
 Sewell, William H., Jr. 1999. “Concepts of Culture.” Pp. 35–61 in Beyond the Cultural Turn: New Directions in the Study of Society and Culture, edited by Victoria E Bonnell, Lynn Avery Hunt, and Richard Biernacki. Univ of California Press.
+Shepherd, Hana. 2011. “The Cultural Context of Cognition: What the Implicit Association Test Tells Us About How Culture Works.” Pp. 121–143 in, vol. 26.
 Smith, Christian, and Melinda L. Denton. 2005. Soul searching: The religious and spiritual lives of American teenagers. Oxford University Press.
 Spillman, Lyn. 1999. “Enriching exchange: Cultural dimensions of markets.” American Journal of Economics and Sociology 58(4):1047–1071.
 Spillman, Lyn. 2007. “Culture.” in The Blackwell Encyclopedia of Sociology, edited by George Ritzer. New York: Blackwell.
@@ -82,3 +93,4 @@ Zelizer, Vivianna A. 1997. The Social Meaning of Money: Pin Money, Paychecks, Po
 Zelizer, Vivianna A. 2005. “Culture and Consumption.” in The handbook of economic sociology, edited by Neil J. Smelser and Richard Swedberg. Princeton, NJ: Princeton Univ Pr.
 Zelizer, Vivianna A. 2007. The Purchase of Intimacy. Princeton University Press.
 Zelizer, Vivianna A. 2010. Economic Lives: How Culture Shapes the Economy. Princeton University Press.
+Zeruvabel, Evitar. 1997. Social Mindscapes: An Invitation to Cognitive Sociology. Cambridge, MA: Harvard University Press.
